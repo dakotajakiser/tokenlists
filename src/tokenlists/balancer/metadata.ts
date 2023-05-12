@@ -1,5 +1,5 @@
 export const metadata = {
-  name: 'Balancer',
+  name: 'STAR',
   version: { major: 1, minor: 0, patch: 0 },
   keywords: [
     'Balancer',
